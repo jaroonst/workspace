@@ -3,14 +3,10 @@
 ##   Header2
 ###  header3
 
-
-git  java
-pubilc class{
-    public static void main
-    {
-        (String args[]){
-                System.out.println("help");
-        }
+```java
+public class{
+    public static void main(String args[]){
+        System.out.print("Hello GitHub");
     }
 }
-***
+```
